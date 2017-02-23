@@ -47,10 +47,12 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
+      customWorkingDirectory = "/Users/iJoyerYip/Desktop/Temp Folder/Thesis/RealEstate/RealEstate"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      allowLocationSimulation = "YES">
+      allowLocationSimulation = "YES"
+      language = "zh-Hans">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
